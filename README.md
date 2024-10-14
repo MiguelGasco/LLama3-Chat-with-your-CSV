@@ -27,7 +27,7 @@ pip install -r requirements.txt
 
 1. Clona el repositorio:
     ```bash
-    git clone https://github.com/tu-usuario/tu-repo.git
+    git clone https://github.com/MiguelGasco/LLama3-Chat-with-your-CSV.git
     ```
 
 2. Navega al directorio del proyecto:
